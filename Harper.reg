@@ -1,8 +1,9 @@
 Windows Registry Editor Version 5.00
 
-; Name:		Harper
-; Author:	Jan T. Sott
-; URL:		https://github.com/idleberg/Harper-Windows-Command-Prompt
+;	Name:		Harper
+;	Author:		Jan T. Sott
+;	License:  	Creative Commons Attribution-ShareAlike 3.0 Unported License
+; 	URL:		https://github.com/idleberg/Harper-Windows-Command-Prompt
 
 [HKEY_CURRENT_USER\Console]
 "ColorTable00"=dword:00010101
